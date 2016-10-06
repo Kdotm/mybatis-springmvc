@@ -1,8 +1,0 @@
-mybatis 例子
-
-http://www.myexception.cn/web/1919175.html 问题未解决
-
-http://blog.csdn.net/techbirds_bao/article/details/9233599/
-
-使用 QTP 测试后台 API
-http://git.cbayel.com/projects/LTC/repos/test-lbm-api/browse
